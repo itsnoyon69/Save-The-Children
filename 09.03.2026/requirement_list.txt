@@ -1,0 +1,8 @@
+Python 3.12 package manager(preferred)
+Pip
+Postman
+VS code
+PyCharm community
+Pg admin
+Postman
+Anaconda cloud
